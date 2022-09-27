@@ -26,11 +26,14 @@ def prob_ket(v1,v2):
     return pro_int/normas       #resultado
 
 
+#PRUEBAS
+v = [(4+3j),(6-4j),(12-7j),(13j)]
+v3 = [(5+2j),(-3j)]
+v4 = [(5+2j),(1-1j)]
+p = (4+3j)
+
 def main():
-    v = [(4+3j),(6-4j),(12-7j),(13j)]
-    v3 = [(5+2j),(-3j)]
-    v4 = [(5+2j),(1-1j)]
-    p = (4+3j)
+
     print(superposicion(v,p))
     print (prob_ket(v3,v4))
 
