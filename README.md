@@ -44,3 +44,7 @@ Seleccione la opción “Download ZIP”
 Descomprima el .ZIP y ejecute el archivo .py
 
 # Pruebas
+
+# Autor
+
+Laura Natalia Rojas Robayo - Librería de TEORIA_CUANTICA_BASICA
