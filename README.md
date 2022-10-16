@@ -20,6 +20,27 @@ RETOS DE PROGRAMACIÓN DEL CAPÍTULO 4
 PROBLEMAS DEL LIBRO
 
 4.3.1
+
 4.3.2
+
 4.4.1
+
 4.4.2
+
+#Prerequisitos
+
+El único primer prerrequisito para correr esta libreria es disponer de un IDE apto para python
+
+#Instalación
+
+Obtener una copia del Proyecto.
+
+Dijirase al link del repositorio
+
+Pulse el botón “Code” de color verde.
+
+Seleccione la opción “Download ZIP”
+
+Descomprima el .ZIP y ejecute el archivo .py
+
+#Pruebas
