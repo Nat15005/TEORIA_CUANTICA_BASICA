@@ -31,6 +31,12 @@ PROBLEMAS DEL LIBRO
 
 El único primer prerrequisito para correr esta libreria es disponer de un IDE apto para python
 
+Instalar la librería numpy as np
+
+Instalar la librería unittest para las pruebas 
+
+Instalar la librería math
+
 # Instalación
 
 Obtener una copia del Proyecto.
@@ -44,6 +50,11 @@ Seleccione la opción “Download ZIP”
 Descomprima el .ZIP y ejecute el archivo .py
 
 # Pruebas
+
+Para correr el programa y ver las pruebas es necesario correr el archivo pruebas.py, en este archivo se encontrarán las pruebas que se realizaron de las funciones con ayuda de la librería llamada unittest, hecho esto, el output que verá será un OK si las pruebas fueron correctas. También, los resultados de las prubas hechas apareceran en la salida. Lucirá de esta forma:  
+
+![image](https://user-images.githubusercontent.com/111907712/196020044-0461571e-36f8-41f3-82dc-6ecf0be4b863.png)
+
 
 # Autor
 
