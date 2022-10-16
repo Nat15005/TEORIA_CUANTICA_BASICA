@@ -29,7 +29,7 @@ PROBLEMAS DEL LIBRO
 
 # Prerequisitos
 
-El único primer prerrequisito para correr esta libreria es disponer de un IDE apto para python
+El primer prerrequisito para correr esta libreria es disponer de un IDE apto para python
 
 Instalar la librería numpy as np
 
