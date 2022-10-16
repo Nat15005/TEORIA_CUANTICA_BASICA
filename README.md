@@ -27,11 +27,11 @@ PROBLEMAS DEL LIBRO
 
 4.4.2
 
-#Prerequisitos
+# Prerequisitos
 
 El único primer prerrequisito para correr esta libreria es disponer de un IDE apto para python
 
-#Instalación
+# Instalación
 
 Obtener una copia del Proyecto.
 
@@ -43,4 +43,4 @@ Seleccione la opción “Download ZIP”
 
 Descomprima el .ZIP y ejecute el archivo .py
 
-#Pruebas
+# Pruebas
