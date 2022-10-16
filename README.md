@@ -51,7 +51,12 @@ Descomprima el .ZIP y ejecute el archivo .py
 
 # Pruebas
 
-Para correr el programa y ver las pruebas es necesario correr el archivo pruebas.py, en este archivo se encontrarán las pruebas que se realizaron de las funciones con ayuda de la librería llamada unittest, hecho esto, el output que verá será un OK si las pruebas fueron correctas. También, los resultados de las prubas hechas apareceran en la salida. Lucirá de esta forma:  
+Para correr el programa y ver las pruebas es necesario correr el archivo pruebas.py, en este archivo se encontrarán las pruebas que se realizaron de las funciones con ayuda de la librería llamada unittest.
+
+![image](https://user-images.githubusercontent.com/111907712/196020126-78ca1faa-77ca-407a-9a7a-25dd975e3c6b.png)
+
+
+Hecho esto, el output que verá será un OK si las pruebas fueron correctas. También, los resultados de las prubas hechas apareceran en la salida. Lucirá de esta forma:  
 
 ![image](https://user-images.githubusercontent.com/111907712/196020044-0461571e-36f8-41f3-82dc-6ecf0be4b863.png)
 
